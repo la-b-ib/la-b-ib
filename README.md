@@ -75,9 +75,8 @@
 
 
 ## 🧠 **Research Highlights**
-| [![Blockchain in Project Management](https://img.shields.io/badge/Blockchain_in_Project_Management-FF0000?style=for-the-badge&logo=blockchain&logoColor=white)]() | [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICEIC64972.2025.10879668-orange?style=for-the-badge)](https://doi.org/10.1109/ICEIC64972.2025.10879668) |
-|:---------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
-
+ [![Blockchain in Project Management](https://img.shields.io/badge/Blockchain_in_Project_Management-FF0000?style=for-the-badge&logo=blockchain&logoColor=white)]()
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICEIC64972.2025.10879668-orange?style=for-the-badge)](https://doi.org/10.1109/ICEIC64972.2025.10879668)
 
 
 
