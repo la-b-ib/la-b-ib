@@ -75,24 +75,17 @@
 
 
 ## 🧠 **Research Highlights**
+| [![Blockchain in Project Management](https://img.shields.io/badge/Blockchain_in_Project_Management-FF0000?style=for-the-badge&logo=blockchain&logoColor=white)]() | [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICEIC64972.2025.10879668-orange?style=for-the-badge)](https://doi.org/10.1109/ICEIC64972.2025.10879668) |
+|:---------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------:|
 
-### Blockchain in Project Management
 
-### Blockchain in Project Management
 
-<div style="display: flex; gap: 15px; margin: 15px 0; align-items: center;">
 
-[![ICEIC 25, Osaka](https://img.shields.io/badge/IEEE_ICEIC_2025,_Osaka-0A77B1?style=for-the-badge&logo=ieee&logoColor=white)]()  
-[![Ethereum-powered Solution](https://img.shields.io/badge/Ethereum_powered_solution-4B0082?style=for-the-badge&logo=ethereum&logoColor=white)]()  
-[![Flutter + OCI](https://img.shields.io/badge/Flutter_+_OCI-FF5722?style=for-the-badge&logo=flutter&logoColor=white)]()  
+<div style="display: flex; gap: 15px; margin: 15px 0; align-items: center; flex-wrap: nowrap;">
+
+[![ICEIC 25, Osaka](https://img.shields.io/badge/IEEE_ICEIC_2025,_Osaka-0A77B1?style=for-the-badge&logo=ieee&logoColor=white)]() [![Powered Solution](https://img.shields.io/badge/Ethereum_powered_solution-4B0082?style=for-the-badge&logo=ethereum&logoColor=white)]() [![Flutter + OCI](https://img.shields.io/badge/Flutter_+_OCI-FF5722?style=for-the-badge&logo=flutter&logoColor=white)]()  
 
 </div>
-
-
-### 📜 Blockchain in Project Management  
-**Conference**: IEEE ICEIC 2025, Osaka  
-**Overview**: Developed an Ethereum-powered project management solution with a Flutter frontend and an Oracle Cloud Infrastructure (OCI) backend.  
-[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICEIC64972.2025.10879668-orange?style=for-the-badge)](https://doi.org/10.1109/ICEIC64972.2025.10879668)
 ---
 
 ### 🌾 Crop Prediction via ML & IoT  
