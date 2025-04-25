@@ -49,14 +49,6 @@
 
 ## 🏆 **Certifications**  
 
-### � **Certifications & Achievements**
-
-### 🏆 Certifications
-
-### 🏆 **Certifications & Achievements**
-
-### 🏆 **Certifications & Achievements**
-
 <div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; margin-top: 20px;">
 
 <!-- First Row -->
@@ -80,9 +72,22 @@
 [![NASBA](https://img.shields.io/badge/NASBA-1E3A8A?style=for-the-badge&logo=nasba&logoColor=white)](https://www.linkedin.com/learning/certificates/e72b6f3475683106b11f92cc054a1f8d514ed33b6b8e6974f5b22d6f28ac2bdd)
 
 </div>
----
+
 
 ## 🧠 **Research Highlights**
+
+### Blockchain in Project Management
+
+### Blockchain in Project Management
+
+<div style="display: flex; gap: 15px; margin: 15px 0; align-items: center;">
+
+[![ICEIC 25, Osaka](https://img.shields.io/badge/IEEE_ICEIC_2025,_Osaka-0A77B1?style=for-the-badge&logo=ieee&logoColor=white)]()  
+[![Ethereum-powered Solution](https://img.shields.io/badge/Ethereum_powered_solution-4B0082?style=for-the-badge&logo=ethereum&logoColor=white)]()  
+[![Flutter + OCI](https://img.shields.io/badge/Flutter_+_OCI-FF5722?style=for-the-badge&logo=flutter&logoColor=white)]()  
+
+</div>
+
 
 ### 📜 Blockchain in Project Management  
 **Conference**: IEEE ICEIC 2025, Osaka  
