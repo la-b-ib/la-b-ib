@@ -75,7 +75,8 @@
 
 
 ## 🧠 **Research Highlights**
- [![Blockchain in Project Management](https://img.shields.io/badge/Blockchain_in_Project_Management-FF0000?style=for-the-badge&logo=blockchain&logoColor=white)]()
+[![Blockchain in Project Management for Information Security, Transparency and Accountability](https://img.shields.io/badge/Blockchain_in_Project_Management_for_Information_Security,_Transparency_and_Accountability-FF0000?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)]()
+
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICEIC64972.2025.10879668-orange?style=for-the-badge)](https://doi.org/10.1109/ICEIC64972.2025.10879668)
 
 
@@ -85,14 +86,25 @@
 [![ICEIC 25, Osaka](https://img.shields.io/badge/IEEE_ICEIC_2025,_Osaka-0A77B1?style=for-the-badge&logo=ieee&logoColor=white)]() [![Powered Solution](https://img.shields.io/badge/Ethereum_powered_solution-4B0082?style=for-the-badge&logo=ethereum&logoColor=white)]() [![Flutter + OCI](https://img.shields.io/badge/Flutter_+_OCI-FF5722?style=for-the-badge&logo=flutter&logoColor=white)]()  
 
 </div>
----
 
-### 🌾 Crop Prediction via ML & IoT  
-**Conference**: IEEE ICRPSET 2024, Rajshahi  
-**Overview**: Built an agricultural analytics platform utilizing IoT sensors and machine learning algorithms to revolutionize crop prediction.  
+[![Crop Prediction Using Machine Learning and IoT: A Comparative Analysis of Algorithms](https://img.shields.io/badge/Crop_Prediction_Using_Machine_Learning_and_IoT:_A_Comparative_Analysis_of_Algorithms-FF0000?style=for-the-badge&logo=scikitlearn&logoColor=white)]()
+
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRPSET64863.2024.10955896-orange?style=for-the-badge)](https://doi.org/10.1109/ICRPSET64863.2024.10955896)
 
----
+<div style="display: flex; gap: 15px; margin: 15px 0; align-items: center; flex-wrap: nowrap;">
+
+[![ICRPSET 24](https://img.shields.io/badge/IEEE_ICRPSET_2024,_Rajshahi-0A77B1?style=for-the-badge&logo=ieee&logoColor=white)]()
+[![Tech Stack](https://img.shields.io/badge/IoT_+_Machine_Learning-4B0082?style=for-the-badge&logo=aws-iot&logoColor=white)]()
+[![Agriculture](https://img.shields.io/badge/Precision_Agriculture-FF5722?style=for-the-badge&logo=leaf&logoColor=white)]()
+
+</div>
+<div style="display: flex; gap: 15px; margin: 15px 0; align-items: center; flex-wrap: nowrap;">
+
+[![Sensors](https://img.shields.io/badge/Soil_Moisture_+_Temp_Sensors-00AA00?style=for-the-badge&logo=raspberrypi&logoColor=white)]()
+[![Algorithms](https://img.shields.io/badge/Random_Forest_+_SVM-0088CC?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
+[![Deployment](https://img.shields.io/badge/Edge_Deployed-FF8800?style=for-the-badge&logo=arduino&logoColor=white)]()
+
+</div>
 
 ## 💡 **Open Source Projects**
 
