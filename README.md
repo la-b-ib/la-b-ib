@@ -4,29 +4,9 @@
 
 ---
 ##
-[![Octoprofile Badge](https://img.shields.io/badge/Octoprofile-Visit-blue?style=flat-square)](https://octoprofile.vercel.app/user?id=la-b-ib)
 
-```mermaid
-gitGraph
-    commit id: "Init" tag: "v1.0.0"
-    branch dev
-    checkout dev
-    commit id: "Base structure"
-    branch feature/core
-    checkout feature/core
-    commit id: "LeafByte.js"
-    commit id: "Metrics"
-    branch feature/i18n
-    checkout feature/i18n
-    commit id: "i18n setup"
-    checkout feature/core
-    merge feature/i18n id: "Merge i18n"
-    commit id: "Refactor carbon"
-    checkout dev
-    merge feature/core id: "Merge core"
-    checkout main
-    merge dev id: "Release v1.1.0" tag: "v1.1.0"
-```
+[![OctoProfile](https://img.shields.io/badge/OctoProfile-Visit-2088FF?style=for-the-badge&logo=github)](https://octoprofile.vercel.app/user?id=la-b-ib)
+[![Profile Views](https://komarev.com/ghpvc/?username=la-b-ib&label=Views&style=for-the-badge&color=2088FF)](https://github.com/la-b-ib)
 
 
 
