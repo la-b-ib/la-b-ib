@@ -97,7 +97,11 @@
 
 
 ## 🧠 **Research Highlights**
-[![Blockchain in Project Management for Information Security, Transparency and Accountability](https://img.shields.io/badge/Blockchain_in_Project_Management_for_Information_Security,_Transparency_and_Accountability-FF0000?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)]()
+
+[![Blockchain in Project Management](https://img.shields.io/badge/Blockchain_in_Project_Management-FF0000?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)]() [![For Information Security](https://img.shields.io/badge/For_Information_Security-FF0000?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)]() [![Transparency and Accountability](https://img.shields.io/badge/Transparency_and_Accountability-FF0000?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)]()
+
+
+
 
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICEIC64972.2025.10879668-orange?style=for-the-badge)](https://doi.org/10.1109/ICEIC64972.2025.10879668)
 
