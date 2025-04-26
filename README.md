@@ -134,34 +134,13 @@
 
 ## 💡 **Open Source Projects**
 
-### 🔒 **DuskProbe**  
-- A Python-based vulnerability scanner integrating HMAC-SHA256 and AES-256 encryption for secure results.  
-
-### 🧠 **MoodScope**  
-- NLP-driven sentiment analyzer for social platforms, using real-time feedback to gauge emotional tones.  
-
-### 📄 **VitaSort**  
-- A GDPR-compliant AI resume classifier leveraging spaCy and FastAPI for efficient parsing.
-
+[![LeafByte](https://img.shields.io/badge/LeafByte-4DC71F?style=for-the-badge&logo=leaf&logoColor=white)](https://github.com/la-b-ib/LeafByte) [![VitaSort](https://img.shields.io/badge/VitaSort-FF6B6B?style=for-the-badge&logo=notebook&logoColor=white)](https://github.com/la-b-ib/VitaSort) [![LitGrid](https://img.shields.io/badge/LitGrid-FFD43B?style=for-the-badge&logo=library&logoColor=black)](https://github.com/la-b-ib/LitGrid) [![CostNest](https://img.shields.io/badge/CostNest-7950F2?style=for-the-badge&logo=coin&logoColor=white)](https://github.com/la-b-ib/CostNest) [![DuskProbe](https://img.shields.io/badge/DuskProbe-212529?style=for-the-badge&logo=shield-check&logoColor=white)](https://github.com/la-b-ib/DuskProbe) [![AURIX](https://img.shields.io/badge/AURIX-0D6EFD?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://github.com/la-b-ib/la-b-ib.github.io) [![MoodScope](https://img.shields.io/badge/MoodScope-FF0000?style=for-the-badge&logo=octopus&logoColor=white)](https://github.com/la-b-ib/MoodScope)
 ---
 
-## 🌟 **Leadership Experience**
-
-- **President**: IEEE Computer Society Bangladesh Chapter (2025–Present)  
-- **Vice President**: IEEE Computer Society Bangladesh Chapter (2024–2025)  
-- **Ambassador**: IEEE PES Day (2024, ID: PESDAY24-217)  
-- **Director of Content**: BUEEC (2024–2025)  
-- **Executive**: BUCLC (2023–2024)  
-- **Journalist**: BRACU Express (2023–2025)  
-
----
 
 ## 🌍 **Collaborations**  
 Excited to collaborate on cutting-edge projects in **AI**, **cybersecurity**, and **sustainability**. Let’s build solutions that make a difference, globally!
 
-📧 **Reach Me**  
-  
-### 🌍 **Connect with Me**
 
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labib.45x@gmail.com)
@@ -175,4 +154,4 @@ Excited to collaborate on cutting-edge projects in **AI**, **cybersecurity**, an
 
 ---
 
-*“Code smart. Build secure. Scale global.”*  
+**“Code smart. Build secure. Scale global.”** 
