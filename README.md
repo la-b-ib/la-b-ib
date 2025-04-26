@@ -8,22 +8,22 @@
 [![OctoProfile](https://img.shields.io/badge/OctoProfile-Visit-2088FF?style=for-the-badge&logo=github)](https://octoprofile.vercel.app/user?id=la-b-ib)
 [![Profile Views](https://komarev.com/ghpvc/?username=la-b-ib&label=Views&style=for-the-badge&color=2088FF)](https://github.com/la-b-ib)
 
+## 📊 GitHub Stats 
 
 
+<div style="display: flex; gap: 10px; height: 120px; align-items: center;">
 
-## 📊 GitHub Stats
+<!-- Stats with cache busting timestamp -->
+<img src="https://github-readme-stats.vercel.app/api?username=la-b-ib&show_icons=true&hide_border=true&theme=default&count_private=true&line_height=18&custom_title=STATS&bg_color=ffffff&title_color=333&text_color=555&icon_color=586069&random=${Math.random()}" style="height: 120px;" alt="Stats"/>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=la-b-ib&show_icons=true&hide_border=true&hide_title=true&theme=default" alt="GitHub Stats" width="400"/>
-</p>
+<!-- Streak with cache busting timestamp -->
+<img src="https://streak-stats.demolab.com?user=la-b-ib&theme=default&hide_border=true&background=ffffff&dates=666666&fire=FF7139&stroke=DDDDDD&random=${Math.random()}" style="height: 120px;" alt="Streak"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-b-ib&layout=compact&hide_border=true&theme=default" alt="Top Languages" width="400"/>
-</p>
+<!-- Languages with cache busting timestamp -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-b-ib&layout=compact&hide_border=true&bg_color=ffffff&title_color=333&text_color=555&langs_count=4&hide=html,css,scss&random=${Math.random()}" style="height: 120px;" alt="Languages"/>
 
+</div>
 
-
-___
 
 ### 💻 Tech Stack
 
