@@ -6,8 +6,22 @@
 **BS in Computer Science & Engineering (2021–Present)**  
 
 🎯 *Passionate about creating scalable solutions in AI, cybersecurity, and sustainability.*
+## 📊 GitHub Stats
 
-### 💻 **Tech Stack**
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=la-b-ib&show_icons=true&hide_border=true&hide_title=true&theme=default" alt="GitHub Stats" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-b-ib&layout=compact&hide_border=true&theme=default" alt="Top Languages" width="400"/>
+</p>
+
+
+
+___
+
+### 💻 Tech Stack
+
 <div>
 
 ### **Languages & Databases**  
@@ -113,19 +127,7 @@
 
 [![LeafByte](https://img.shields.io/badge/LeafByte-4DC71F?style=for-the-badge&logo=leaf&logoColor=white)](https://github.com/la-b-ib/LeafByte) [![VitaSort](https://img.shields.io/badge/VitaSort-FF6B6B?style=for-the-badge&logo=notebook&logoColor=white)](https://github.com/la-b-ib/VitaSort) [![LitGrid](https://img.shields.io/badge/LitGrid-FFD43B?style=for-the-badge&logo=library&logoColor=black)](https://github.com/la-b-ib/LitGrid) [![CostNest](https://img.shields.io/badge/CostNest-7950F2?style=for-the-badge&logo=coin&logoColor=white)](https://github.com/la-b-ib/CostNest) [![DuskProbe](https://img.shields.io/badge/DuskProbe-212529?style=for-the-badge&logo=shield-check&logoColor=white)](https://github.com/la-b-ib/DuskProbe) [![AURIX](https://img.shields.io/badge/AURIX-0D6EFD?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://github.com/la-b-ib/la-b-ib.github.io) [![MoodScope](https://img.shields.io/badge/MoodScope-FF0000?style=for-the-badge&logo=octopus&logoColor=white)](https://github.com/la-b-ib/MoodScope)
 ---
-## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=la-b-ib&show_icons=true&hide_border=true&hide_title=true&theme=default" alt="GitHub Stats" width="400"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-b-ib&layout=compact&hide_border=true&theme=default" alt="Top Languages" width="400"/>
-</p>
-
-
-
-___
 
 ## 🌍 **Collaborations**  
 Excited to collaborate on cutting-edge projects in **AI**, **cybersecurity**, and **sustainability**. Let’s build solutions that make a difference, globally!
