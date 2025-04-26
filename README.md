@@ -3,8 +3,6 @@
 
 ---
 
-# 🚀 Labib Bin Shahed | CS & Engineering @ BRAC University  
-**CS & Engineering Student @ BRACU | ML, NLP, Blockchain Researcher | IEEE CS Bangladesh Chapter President 2025 | Open Source Contributor | Seeking Global AI & Sustainability Collaborations**  
 
 ## 📊 GitHub Stats
 
