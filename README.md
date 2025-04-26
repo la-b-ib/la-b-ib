@@ -3,9 +3,8 @@
 ---
 
 # 🚀 Labib Bin Shahed | CS & Engineering @ BRAC University  
-**BS in Computer Science & Engineering (2021–Present)**  
+**CS & Engineering Student @ BRACU | ML, NLP, Blockchain Researcher | IEEE CS Bangladesh Chapter President 2025 | Open Source Contributor | Seeking Global AI & Sustainability Collaborations**  
 
-🎯 *Passionate about creating scalable solutions in AI, cybersecurity, and sustainability.*
 ## 📊 GitHub Stats
 
 <p>
