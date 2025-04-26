@@ -71,30 +71,7 @@
 
 ## 🏆 **Certifications**  
 
-<div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; margin-top: 20px;">
-
-<!-- First Row -->
-[![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)](https://www.linkedin.com/learning/certificates/759119dcc46bdb4e63fb82dc49ed0ad4288a97d9031dd360fdb0686f65b0b398)
-[![PMI](https://img.shields.io/badge/PMI-8C1D40?style=for-the-badge&logo=project-management-institute&logoColor=white)](https://www.linkedin.com/learning/certificates/fe897b3437597f8b933ad2501b5de695916b026e0c841509df9545ecd7d83b0b)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/learning/certificates/e9fda53e1d56f77f2f78acaefd5fd9c9dfd3dce255ebd20be4d1cd3290629784)
-[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/learning/certificates/73e313f844327f6f6a86a0984c7c45ee6b9eee1a3e283db48bb370d908b57dec)
-[![LambdaTest](https://img.shields.io/badge/LambdaTest-FF8C00?style=for-the-badge&logo=testing-library&logoColor=white)](https://www.linkedin.com/learning/certificates/243b5362e2fc213ce658d04d6c21856b9ab9628a3e81b375927773cd8618fd49)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/certificates/246ffec626263c5d4a8bea2c310bcc0cd836100f89d7e87c605082f43004b053)
-
-</div>
-
-<div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 10px; margin-top: 10px;">
-
-<!-- Second Row -->
-[![SHRM](https://img.shields.io/badge/SHRM-0083BE?style=for-the-badge&logo=shrm&logoColor=white)](https://www.linkedin.com/learning/certificates/3719feeef2b7f6b1134ce2fb8887cad2d531b509b194f9ab82204ad2581b1cf3)
-[![HRCI](https://img.shields.io/badge/HRCI-FF6D00?style=for-the-badge&logo=hrci&logoColor=white)](https://www.linkedin.com/learning/certificates/125c8879c94519f1a707ee5691ac5a6e5b5ca44002c3f532900f608765a2d2fa)
-[![Blue Prism](https://img.shields.io/badge/Blue_Prism-00A1E0?style=for-the-badge&logo=blue-prism&logoColor=white)](https://www.linkedin.com/learning/certificates/6f99e870b41beae081989894b502a48e94af71cf8806e54a994cad682d092c5f)
-[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://drive.google.com/file/d/1TtB9GEhgxRlTVQ5Ha-w9MWNBN6oXl2Jb/view)
-[![ICPE](https://img.shields.io/badge/ICPE-34A853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/17SxPVFYELRmTnL-ottL5zVR29rsvGYBD/view)
-[![NASBA](https://img.shields.io/badge/NASBA-1E3A8A?style=for-the-badge&logo=nasba&logoColor=white)](https://www.linkedin.com/learning/certificates/e72b6f3475683106b11f92cc054a1f8d514ed33b6b8e6974f5b22d6f28ac2bdd)
-
-</div>
-
+[![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)](https://www.linkedin.com/learning/certificates/759119dcc46bdb4e63fb82dc49ed0ad4288a97d9031dd360fdb0686f65b0b398) [![PMI](https://img.shields.io/badge/PMI-8C1D40?style=for-the-badge&logo=project-management-institute&logoColor=white)](https://www.linkedin.com/learning/certificates/fe897b3437597f8b933ad2501b5de695916b026e0c841509df9545ecd7d83b0b) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/learning/certificates/e9fda53e1d56f77f2f78acaefd5fd9c9dfd3dce255ebd20be4d1cd3290629784) [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/learning/certificates/73e313f844327f6f6a86a0984c7c45ee6b9eee1a3e283db48bb370d908b57dec) [![LambdaTest](https://img.shields.io/badge/LambdaTest-FF8C00?style=for-the-badge&logo=testing-library&logoColor=white)](https://www.linkedin.com/learning/certificates/243b5362e2fc213ce658d04d6c21856b9ab9628a3e81b375927773cd8618fd49) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/certificates/246ffec626263c5d4a8bea2c310bcc0cd836100f89d7e87c605082f43004b053) [![SHRM](https://img.shields.io/badge/SHRM-0083BE?style=for-the-badge&logo=shrm&logoColor=white)](https://www.linkedin.com/learning/certificates/3719feeef2b7f6b1134ce2fb8887cad2d531b509b194f9ab82204ad2581b1cf3) [![HRCI](https://img.shields.io/badge/HRCI-FF6D00?style=for-the-badge&logo=hrci&logoColor=white)](https://www.linkedin.com/learning/certificates/125c8879c94519f1a707ee5691ac5a6e5b5ca44002c3f532900f608765a2d2fa) [![Blue Prism](https://img.shields.io/badge/Blue_Prism-00A1E0?style=for-the-badge&logo=blue-prism&logoColor=white)](https://www.linkedin.com/learning/certificates/6f99e870b41beae081989894b502a48e94af71cf8806e54a994cad682d092c5f) [![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://drive.google.com/file/d/1TtB9GEhgxRlTVQ5Ha-w9MWNBN6oXl2Jb/view) [![ICPE](https://img.shields.io/badge/ICPE-34A853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/17SxPVFYELRmTnL-ottL5zVR29rsvGYBD/view) [![NASBA](https://img.shields.io/badge/NASBA-1E3A8A?style=for-the-badge&logo=nasba&logoColor=white)](https://www.linkedin.com/learning/certificates/e72b6f3475683106b11f92cc054a1f8d514ed33b6b8e6974f5b22d6f28ac2bdd)
 
 ## 🧠 **Research Highlights**
 
