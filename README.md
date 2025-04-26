@@ -1,7 +1,34 @@
 ![Header](https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/header.png)
 
 
+
 ---
+##
+[![Octoprofile Badge](https://img.shields.io/badge/Octoprofile-Visit-blue?style=flat-square)](https://octoprofile.vercel.app/user?id=la-b-ib)
+
+```mermaid
+gitGraph
+    commit id: "Init" tag: "v1.0.0"
+    branch dev
+    checkout dev
+    commit id: "Base structure"
+    branch feature/core
+    checkout feature/core
+    commit id: "LeafByte.js"
+    commit id: "Metrics"
+    branch feature/i18n
+    checkout feature/i18n
+    commit id: "i18n setup"
+    checkout feature/core
+    merge feature/i18n id: "Merge i18n"
+    commit id: "Refactor carbon"
+    checkout dev
+    merge feature/core id: "Merge core"
+    checkout main
+    merge dev id: "Release v1.1.0" tag: "v1.1.0"
+```
+
+
 
 
 ## 📊 GitHub Stats
