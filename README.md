@@ -113,7 +113,7 @@
 
 </div>
 
-[![Crop Prediction Using Machine Learning and IoT: A Comparative Analysis of Algorithms](https://img.shields.io/badge/Crop_Prediction_Using_Machine_Learning_and_IoT:_A_Comparative_Analysis_of_Algorithms-FF0000?style=for-the-badge&logo=scikitlearn&logoColor=white)]()
+[![Crop Prediction Using Machine Learning and IoT](https://img.shields.io/badge/Crop_Prediction_Using_ML_and_IoT-FF0000?style=for-the-badge&logo=scikitlearn&logoColor=white)]() [![A Comparative Analysis of Algorithms](https://img.shields.io/badge/Comparative_Analysis_of_Algorithms-FF0000?style=for-the-badge&logo=scikitlearn&logoColor=white)]()
 
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2FICRPSET64863.2024.10955896-orange?style=for-the-badge)](https://doi.org/10.1109/ICRPSET64863.2024.10955896)
 
