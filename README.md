@@ -10,7 +10,6 @@
 
 ## 📊 GitHub Stats 
 
-
 <div style="display: flex; gap: 10px; height: 120px; align-items: center;">
 
 <!-- Stats with cache busting timestamp -->
@@ -23,6 +22,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-b-ib&layout=compact&hide_border=true&bg_color=ffffff&title_color=333&text_color=555&langs_count=4&hide=html,css,scss&random=${Math.random()}" style="height: 120px;" alt="Languages"/>
 
 </div>
+
+
+<div style="display: flex; justify-content: center; margin: 10px 0;">
+
+<!-- Light Theme Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=la-b-ib&theme=github-light&area=true&hide_border=true&height=300&bg_color=ffffff&color=333333&line=4d8af0&point=ff7139" width="100%" alt="Activity Graph">
+
+</div>
+
 
 
 ### 💻 Tech Stack
