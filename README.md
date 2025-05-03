@@ -12,7 +12,7 @@
 
 ## 📊 GitHub Stats 
 
-<div style="display: flex; gap: 10px; height: 120px; align-items: center;">
+<div style="display: flex; gap: 10px; height: 300px; align-items: center;">
 
 <!-- Stats with cache busting timestamp -->
 <img src="https://github-readme-stats.vercel.app/api?username=la-b-ib&show_icons=true&hide_border=true&theme=default&count_private=true&line_height=18&custom_title=STATS&bg_color=ffffff&title_color=333&text_color=555&icon_color=586069&random=${Math.random()}" style="height: 120px;" alt="Stats"/>
