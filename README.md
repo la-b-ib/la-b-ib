@@ -10,22 +10,15 @@
 
 ---
 
-## 📊 GitHub Stats 
-
-<p align="justify">
-  <img src="https://github-profile-trophy.vercel.app/?username=la-b-ib&margin-w=20&margin-h=20&row=" height="100" />
-</p>
-
-<p align="justify">
-  <img src="https://github-profile-trophy.vercel.app/?username=la-b-ib&row=1&margin-w=20&margin-h=20&theme=flat&no-bg=true&no-frame=true&exclude=Followers,Repositories,Stars,Issues,PullRequest,Reviews,ExperienceTrophy&title=AncientUser,Commit,Contributions,Discussions,Secret" height="100" />
-</p>
-
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+## 🏆 GitHub Trophies
+
+<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 20px;">
   <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&row=1&margin-w=20&margin-h=20&theme=flat&no-bg=true&no-frame=true&exclude=NewAccountTrophy" height="100" />
-</p>
+</div>
+
 
 
 
