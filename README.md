@@ -1,5 +1,10 @@
 ![Header](https://raw.githubusercontent.com/la-b-ib/la-b-ib.github.io/main/assets/GIF/experience.gif)
 
+| <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile/profile.jpg" alt="Profile" height="1200px"> | <div align="left"> <p style="text-align: justify;"> <strong>Passionate developer</strong> with a strong interest in web & software development. I thrive on applying core concepts to real-world projects, building intelligent solutions that tackle industry challenges. With hands-on experience across diverse tech stacks, I enjoy turning complex problems into elegant code. I'm constantly exploring new tools, frameworks, and ideas to stay ahead in a fast-evolving field. </p> </div> |
+|---|---|
+
+
+
 
 
 ---
