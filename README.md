@@ -22,7 +22,7 @@
 ---
 
 
-## 🏆 GitHub Trophies
+## 🎖️ GitHub Trophies
 
 <p align="justify">
   <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&column=4&row=2&margin-w=20&margin-h=20&theme=flat&no-bg=true&no-frame=true&exclude=NewAccountTrophy" height="400" style="width:auto;" />
@@ -376,7 +376,7 @@
 
 
 
-## 🏆 Research
+## 🔬 Research
 
 <p align="justify">
 
