@@ -37,59 +37,260 @@
 ---
 
 ## **👨🏻‍💻 Tech Stack**
-
-### **Languages & Databases**  
 <div>
   
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+### 🧠 Programming Languages
+
+<p align="justify">
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg" height="50" />
+  </span>
+</p>
+
+
+</div>
+<div>
+  
+### 🌐 Web Development
+
+<p align="justify">
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/lesscss/lesscss-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/d3js/d3js-ar21.svg" height="50" />
+  </span>
+</p>
+
 
 </div>
 
-### **Frameworks**  
 <div>
   
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![SwiftUI](https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+### 🗄️ Backend & Databases
+
+
+
+<p align="justify">
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" height="50" />
+  </span>
+</p>
 
 </div>
 
-### **Tools**  
 <div>
   
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+### 🤖 Data Science & AI
+
+<p align="justify">
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg" height="50" />
+  </span>
+</p>
 
 </div>
-
-### **Operating Systems**  
+  
 <div>
   
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-[![RedHat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://www.redhat.com/)
-[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
-[![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)](https://www.freebsd.org/)
+### ☁️ Cloud & DevOps
+
+<p align="justify">
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" height="50" />
+  </span>
+</p>
+
+
+</div>
+<div>
+  
+  ### 🖥️ Operating Systems
+
+<p align="justify">
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" height="50" />
+  </span>
+</p>
+
+</div>
+<div>
+  
+  ### 🛠️ Development Tools
+
+<p align="justify">
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" height="50" />
+  </span>
+  <span style="padding-right:20px;">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" height="50" />
+  </span>
+</p>
 
 </div>
 
