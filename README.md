@@ -13,12 +13,11 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&row=1&column=5&margin-w=20&margin-h=20&theme=flat&no-bg=true&no-frame=true&exclude=NewAccountTrophy" height="100" />
+<p align="justify">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&column=4&row=2&margin-w=20&margin-h=20&theme=flat&no-bg=true&no-frame=true&exclude=NewAccountTrophy" height="400" style="width:auto;" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&row=1&column=5&margin-w=20&margin-h=20&theme=flat&no-bg=true&no-frame=true&exclude=NewAccountTrophy&title=Commit,Contributions,Discussions,Secret,AncientUser" height="100" />
-</p>
+
+
 
 
 
