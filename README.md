@@ -12,26 +12,10 @@
 
 ## 📊 GitHub Stats 
 
-<div style="display: flex; gap: 10px; height: 300px; align-items: center;">
+<p align="justify">
+  <img src="https://github-profile-trophy.vercel.app/?username=la-b-ib&margin-w=20&margin-h=20&row=1" height="100" />
+</p>
 
-<!-- Stats with cache busting timestamp -->
-<img src="https://github-readme-stats.vercel.app/api?username=la-b-ib&show_icons=true&hide_border=true&theme=default&count_private=true&line_height=18&custom_title=STATS&bg_color=ffffff&title_color=333&text_color=555&icon_color=586069&random=${Math.random()}" style="height: 120px;" alt="Stats"/>
-
-<!-- Streak with cache busting timestamp -->
-<img src="https://streak-stats.demolab.com?user=la-b-ib&theme=default&hide_border=true&background=ffffff&dates=666666&fire=FF7139&stroke=DDDDDD&random=${Math.random()}" style="height: 120px;" alt="Streak"/>
-
-<!-- Languages with cache busting timestamp -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=la-b-ib&layout=compact&hide_border=true&bg_color=ffffff&title_color=333&text_color=555&langs_count=4&hide=html,css,scss&random=${Math.random()}" style="height: 120px;" alt="Languages"/>
-
-</div>
-
-
-<div style="display: flex; justify-content: center; margin: 10px 0;">
-
-<!-- Light Theme Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=la-b-ib&theme=github-light&area=true&hide_border=true&height=300&bg_color=ffffff&color=333333&line=4d8af0&point=ff7139" width="100%" alt="Activity Graph">
-
-</div>
 
 
 ---
