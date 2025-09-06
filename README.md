@@ -13,7 +13,7 @@
 ## 📊 GitHub Stats 
 
 <p align="justify">
-  <img src="https://github-profile-trophy.vercel.app/?username=la-b-ib&margin-w=20&margin-h=20&row=1" height="100" />
+  <img src="https://github-profile-trophy.vercel.app/?username=la-b-ib&margin-w=20&margin-h=20&row=" height="100" />
 </p>
 
 
