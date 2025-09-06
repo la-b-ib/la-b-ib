@@ -17,19 +17,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&column=4&row=2&margin-w=20&margin-h=20&theme=flat&no-bg=true&no-frame=true&exclude=NewAccountTrophy" height="400" style="width:auto;" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&margin-w=20&margin-h=20&theme=flat&no-bg=true&no-frame=true&exclude=NewAccountTrophy" height="500" style="max-width:100%; height:auto;" />
-</p>
-
-
-
-
-
-
-
-
 
 ---
 
