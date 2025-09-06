@@ -385,24 +385,54 @@
 </p>
 
 <hr>
-___
+
 
 ## 💡 **Open Source Projects**
 
 [![LeafByte](https://img.shields.io/badge/LeafByte-4DC71F?style=for-the-badge&logo=leaf&logoColor=white)](https://github.com/la-b-ib/LeafByte) [![VitaSort](https://img.shields.io/badge/VitaSort-FF6B6B?style=for-the-badge&logo=notebook&logoColor=white)](https://github.com/la-b-ib/VitaSort) [![LitGrid](https://img.shields.io/badge/LitGrid-FFD43B?style=for-the-badge&logo=library&logoColor=black)](https://github.com/la-b-ib/LitGrid) [![CostNest](https://img.shields.io/badge/CostNest-7950F2?style=for-the-badge&logo=coin&logoColor=white)](https://github.com/la-b-ib/CostNest) [![DuskProbe](https://img.shields.io/badge/DuskProbe-212529?style=for-the-badge&logo=shield-check&logoColor=white)](https://github.com/la-b-ib/DuskProbe) [![AURIX](https://img.shields.io/badge/AURIX-0D6EFD?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://github.com/la-b-ib/la-b-ib.github.io) [![MoodScope](https://img.shields.io/badge/MoodScope-FF0000?style=for-the-badge&logo=octopus&logoColor=white)](https://github.com/la-b-ib/MoodScope)
 
----
+
+<hr>
+
+## **⛓️‍💥 Let’s Get Connected**  
+
+<p align="justify">
 
 
-## 🌍 **Collaborations**  
-**Let’s build solutions that make a difference, globally!**
-**“Code smart. Build secure. Scale global.”** 
+  <a href="https://github.com/la-b-ib">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib.github.io/main/assets/img/social%20links%20icon/gh.PNG" height="50" style="margin-right:30px;" />
+  </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/la-b-ib/">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib.github.io/main/assets/img/social%20links%20icon/ln.PNG" height="50" style="margin-right:30px;" />
+  </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
+
+  <a href="https://www.reddit.com/u/la-b-ib/s/cNt5KoLEdT">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib.github.io/main/assets/img/social%20links%20icon/rdt.PNG" height="50" style="margin-right:30px;" />
+  </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
+  <a href="https://x.com/la_b_ib_">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib.github.io/main/assets/img/social%20links%20icon/twitter.png" height="50" style="margin-right:30px;" />
+  </a>
+  
+
 
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labib.45x@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/la-b-ib) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/la-b-ib/) [![Portfolio](https://img.shields.io/badge/Website-0A5C78?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://la-b-ib.github.io/) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/la_b_ib_) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-4656-8709) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Labib-Bin-Shahed) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=xg04A5kAAAAJ) [![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/398407024257618)
+  
+</p>
+
+<hr>
 
 
-
----
 
 
