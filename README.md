@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/header.png)
+![Header](https://raw.githubusercontent.com/la-b-ib/la-b-ib.github.io/main/assets/GIF/experience.gif)
 
 
 
