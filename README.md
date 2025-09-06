@@ -1,7 +1,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile/profile.jpg" alt="Profile" height="200px">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile/profile.jpg" alt="Profile" height="300px">
 </p>
 
 <p align="left">
