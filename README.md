@@ -299,46 +299,85 @@
 ---
 ## 🏆 CERTIFICATIONS
 
-<p align="left">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/trophy.gif" height="70" style="margin-bottom:10px; margin-right:30px;" />
-  </a>
+<p align="justify">
+
+
   <a href="https://www.linkedin.com/learning/certificates/e9fda53e1d56f77f2f78acaefd5fd9c9dfd3dce255ebd20be4d1cd3290629784">
     <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/github.png" height="50" style="margin-right:30px;" />
   </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
+
+
   <a href="https://edu.exceedlms.com/student/award/4FWmuwj17zXK5i9YzCLFU6kf">
     <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/google.png" height="50" style="margin-right:30px;" />
   </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
+
+
   <a href="https://www.hackerrank.com/certificates/0185beaeedaa">
     <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/hackerrank.png" height="50" style="margin-right:30px;" />
   </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
   <a href="https://www.life-global.org/certificate/98bb96cd-0f2b-4e49-9a12-1aa257e3fcc4">
     <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/hp.png" height="50" style="margin-right:30px;" />
   </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
   <a href="https://www.linkedin.com/learning/certificates/243b5362e2fc213ce658d04d6c21856b9ab9628a3e81b375927773cd8618fd49">
     <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/lamda.png" height="50" style="margin-right:30px;" />
   </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
   <a href="https://www.linkedin.com/learning/certificates/246ffec626263c5d4a8bea2c310bcc0cd836100f89d7e87c605082f43004b053">
     <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/linkedin.png" height="50" style="margin-right:30px;" />
   </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
   <a href="https://www.credly.com/badges/7359f5bb-cbe8-4769-bc0f-b9689471563f/linked_in?t=t0wlvr">
     <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/ibm.png" height="50" style="margin-right:30px;" />
   </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
   <a href="https://www.linkedin.com/learning/certificates/73e313f844327f6f6a86a0984c7c45ee6b9eee1a3e283db48bb370d908b57dec">
     <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/microsoft.png" height="50" style="margin-right:30px;" />
   </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
   <a href="https://www.linkedin.com/learning/certificates/fe897b3437597f8b933ad2501b5de695916b026e0c841509df9545ecd7d83b0b?trk=share_certificate">
     <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/pmi.jpg" height="50" style="margin-right:30px;" />
   </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
   <a href="https://www.linkedin.com/learning/certificates/759119dcc46bdb4e63fb82dc49ed0ad4288a97d9031dd360fdb0686f65b0b398">
     <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/twillo.webp" height="50" style="margin-right:30px;" />
   </a>
+ 
+
+
 </p>
 
 <hr>
-
-
-
 
 
 
