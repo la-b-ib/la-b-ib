@@ -96,9 +96,7 @@ ___
   <span style="padding-right:20px;">
     <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" height="50" />
   </span>
-  <span style="padding-right:20px;">
-    <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" height="50" />
-  </span>
+  
   <span style="padding-right:20px;">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" height="50" />
   </span>
@@ -147,9 +145,7 @@ ___
   <span style="padding-right:20px;">
     <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-ar21.svg" height="50" />
   </span>
-  <span style="padding-right:20px;">
-    <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg" height="50" />
-  </span>
+  
   <span style="padding-right:20px;">
     <img src="https://www.vectorlogo.zone/logos/d3js/d3js-ar21.svg" height="50" />
   </span>
@@ -177,12 +173,7 @@ ___
   <span style="padding-right:20px;">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" height="50" />
   </span>
-  <span style="padding-right:20px;">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" height="50" />
-  </span>
-  <span style="padding-right:20px;">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" height="50" />
-  </span>
+  
   <span style="padding-right:20px;">
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="50" />
   </span>
@@ -255,9 +246,7 @@ ___
   <span style="padding-right:20px;">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" height="50" />
   </span>
-  <span style="padding-right:20px;">
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" height="50" />
-  </span>
+  
   <span style="padding-right:20px;">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" height="50" />
   </span>
@@ -294,9 +283,7 @@ ___
   <span style="padding-right:20px;">
     <img src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg" height="50" />
   </span>
-  <span style="padding-right:20px;">
-    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" height="50" />
-  </span>
+  
 </p>
 
 </div>
@@ -447,7 +434,7 @@ ___
 <hr>
 
 ## Open Source Projects <a href=""><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/light-bulb.gif"></a>
-**🔥 I'm thrilled to contribute to projects that spark global collaboration and innovation. From crafting clean code to squashing bugs, I’m all in for building robust tools that empower vibrant open-source communities. 🌐 #OpenSourceVibes**
+**🔥 I'm thrilled to contribute to projects that spark global collaboration and innovation. From crafting clean code to squashing bugs, I’m all in for building robust tools that empower vibrant open-source communities. #OpenSourceVibes**
 <hr>
 <p align="justify">
 
@@ -500,49 +487,9 @@ ___
 </p>
 <hr>
 
-## **⛓️‍💥 Let’s Get Connected**  
+## Crafting Innovations <a href=""><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/brainstorm.gif"></a>
 
-<p align="justify">
-
-
-  <a href="https://github.com/la-b-ib">
-    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib.github.io/main/assets/img/social%20links%20icon/gh.PNG" height="50" style="margin-right:30px;" />
-  </a>
-  <a href="#">
-  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/la-b-ib/">
-    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib.github.io/main/assets/img/social%20links%20icon/ln.PNG" height="50" style="margin-right:30px;" />
-  </a>
-  <a href="#">
-  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
-  </a>
-
-
-  <a href="https://www.reddit.com/u/la-b-ib/s/cNt5KoLEdT">
-    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib.github.io/main/assets/img/social%20links%20icon/rdt.PNG" height="50" style="margin-right:30px;" />
-  </a>
-  <a href="#">
-  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
-  </a>
-
-  <a href="https://x.com/la_b_ib_">
-    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib.github.io/main/assets/img/social%20links%20icon/twitter.png" height="50" style="margin-right:30px;" />
-  </a>
-  <a href="#">
-  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
-  </a>
-
-  <a href="https://la-b-ib.github.io/">
-    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/website-modified.png" height="50" style="margin-right:30px;" />
-  </a>
-  
-
-
-  
-  
-</p>
+**My pursuit in research, open-source innovation, and certified expertise drives impactful solutions. Explore my repositories, share your insights, and let’s collaborate to create meaningful advancements. Together, we’ll craft a legacy of distinction. #RefineTheFuture**
 
 <hr>
 
