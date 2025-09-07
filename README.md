@@ -62,10 +62,9 @@
 
 ---
 
+## Trophies <a href=""><img align="left" width="320" height="320" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/winner.gif"></a>
 
-## 🎖️ GitHub Trophies
-
-<p align="justify">
+<p align="right">
   <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&column=4&row=2&margin-w=20&margin-h=20&theme=flat&no-bg=true&no-frame=true&exclude=NewAccountTrophy" height="400" style="width:auto;" />
 </p>
 
