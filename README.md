@@ -1,11 +1,55 @@
 
-## Hi, I'm Labib : <a href="https://la-b-ib.github.io/"><img align="left" width="350" height="350" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile/profile.jpg"></a>
+## Hi, I'm Labib : <a href="https://la-b-ib.github.io/"><img align="left" width="170" height="170" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile/profile.jpg"></a>
 
 **Passionate developer with a strong interest in web & software development. I thrive on applying core concepts to real-world projects, building intelligent solutions that tackle industry challenges.With hands-on experience across diverse tech stacks, I enjoy turning complex problems into elegant code. I'm constantly exploring new tools, frameworks, and ideas to stay ahead in a fast-evolving field.**
 
 <hr>
 
+##
 **CS & Engineering Student @ BRACU | ML, NLP, Blockchain Researcher | IEEE CSBDC Secretariat President 2025 | Open Source Contributor | Seeking Global AI & Sustainability Collaborations**
+
+<p align="justify">
+
+
+  <a href="https://github.com/la-b-ib">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib.github.io/main/assets/img/social%20links%20icon/gh.PNG" height="50" style="margin-right:30px;" />
+  </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/la-b-ib/">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib.github.io/main/assets/img/social%20links%20icon/ln.PNG" height="50" style="margin-right:30px;" />
+  </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
+
+  <a href="https://www.reddit.com/u/la-b-ib/s/cNt5KoLEdT">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib.github.io/main/assets/img/social%20links%20icon/rdt.PNG" height="50" style="margin-right:30px;" />
+  </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
+  <a href="https://x.com/la_b_ib_">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib.github.io/main/assets/img/social%20links%20icon/twitter.png" height="50" style="margin-right:30px;" />
+  </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
+  <a href="https://la-b-ib.github.io/">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/website-modified.png" height="50" style="margin-right:30px;" />
+  </a>
+  
+
+
+  
+  
+</p>
+
 
 
 
