@@ -62,9 +62,11 @@
 
 ---
 
-## Trophies <a href=""><img align="left" width="320" height="320" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/winner.gif"></a>
+## Trophies <a href=""><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/winner.gif"></a>
+**🏆 Check out my GitHub Trophies! I'm thrilled to showcase my coding journey, from late-night commits to game-changing projects. Explore my repos, get inspired, and let's collaborate on something epic! Together, we can push the boundaries of what's possible with code! 🚀 #CodeWithPassion**
 
-<p align="right">
+___
+<p align="justify">
   <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&column=4&row=2&margin-w=20&margin-h=20&theme=flat&no-bg=true&no-frame=true&exclude=NewAccountTrophy" height="400" style="width:auto;" />
 </p>
 
