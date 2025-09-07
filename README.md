@@ -66,12 +66,7 @@
 **🏆 Check out my GitHub Trophies! I'm thrilled to showcase my coding journey, from late-night commits to game-changing projects. Explore my repos, get inspired, and let's collaborate on something epic! Together, we can push the boundaries of what's possible with code! 🚀 #CodeWithPassion**
 
 ___
-<img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&column=5&row=2&margin-w=20&margin-h=20&theme=flat&no-bg=true&no-frame=true&exclude=NewAccountTrophy" style="height:500px; width:auto;" />
-
-
-
-
-
+<img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&column=5&row=2&margin-w=auto&margin-h=0&theme=flat&no-bg=true&no-frame=true&exclude=NewAccountTrophy" style="height:auto; width:auto;" />
 
 ---
 
