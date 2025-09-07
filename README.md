@@ -71,9 +71,8 @@ ___
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&margin-w=20&margin-h=20&theme=flat&no-bg=true&no-frame=true&exclude=NewAccountTrophy" style="height: 400px; width: auto; max-width: 100%;" />
-</p>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=lucthienphong1120&margin-w=20&margin-h=20&theme=flat&no-bg=true&no-frame=true&exclude=NewAccountTrophy)
+
 
 
 
