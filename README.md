@@ -440,7 +440,7 @@
   </a>
 
   <a href="https://la-b-ib.github.io/">
-    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/website.jpg" height="50" style="margin-right:30px;" />
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/website-modified.png" height="50" style="margin-right:30px;" />
   </a>
   
 
