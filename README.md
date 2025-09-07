@@ -5,7 +5,10 @@
 
 <hr>
 
-## Let’s Get Connected
+
+## Let’s Get Connected: <a href="https://la-b-ib.github.io/"><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/content-media.gif"></a>
+
+
 **CS & Engineering Student @ BRACU | ML, NLP, Blockchain Researcher | IEEE CSBDC Secretariat President 2025 | Open Source Contributor | Seeking Global AI & Sustainability Collaborations**
 
 <p align="justify">
