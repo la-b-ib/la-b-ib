@@ -336,7 +336,11 @@ ___
 </div>
 
 ---
-## 🏆 CERTIFICATIONS
+
+## Certifications <a href=""><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/certificate-authority.gif"></a>
+**🎓 Showcasing my certifications on GitHub! I'm proud to display my credentials from Google, HackerRank, IBM, LinkedIn, Microsoft, and more, earned through dedication and a passion for learning. Let’s connect and explore how these skills can fuel innovative projects! 🌟 #CertifiedAndDriven**
+<hr>
+
 
 <p align="justify">
 
