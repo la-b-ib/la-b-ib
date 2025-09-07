@@ -449,11 +449,55 @@ ___
 ## Open Source Projects <a href=""><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/light-bulb.gif"></a>
 **🔥 I'm thrilled to contribute to projects that spark global collaboration and innovation. From crafting clean code to squashing bugs, I’m all in for building robust tools that empower vibrant open-source communities. 🌐 #OpenSourceVibes**
 <hr>
+<p align="justify">
 
+  <a href="https://github.com/la-b-ib/la-b-ib/tree/main/assets/img/project">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/project/duskprobe.PNG" height="50" style="margin-right:30px;" />
+  </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
 
-[![LeafByte](https://img.shields.io/badge/LeafByte-4DC71F?style=for-the-badge&logo=leaf&logoColor=white)](https://github.com/la-b-ib/LeafByte) [![VitaSort](https://img.shields.io/badge/VitaSort-FF6B6B?style=for-the-badge&logo=notebook&logoColor=white)](https://github.com/la-b-ib/VitaSort) [![LitGrid](https://img.shields.io/badge/LitGrid-FFD43B?style=for-the-badge&logo=library&logoColor=black)](https://github.com/la-b-ib/LitGrid) [![CostNest](https://img.shields.io/badge/CostNest-7950F2?style=for-the-badge&logo=coin&logoColor=white)](https://github.com/la-b-ib/CostNest) [![DuskProbe](https://img.shields.io/badge/DuskProbe-212529?style=for-the-badge&logo=shield-check&logoColor=white)](https://github.com/la-b-ib/DuskProbe) [![AURIX](https://img.shields.io/badge/AURIX-0D6EFD?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://github.com/la-b-ib/la-b-ib.github.io) [![MoodScope](https://img.shields.io/badge/MoodScope-FF0000?style=for-the-badge&logo=octopus&logoColor=white)](https://github.com/la-b-ib/MoodScope)
+  <a href="https://github.com/la-b-ib/VitaSort">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/project/vitasort.jpg" height="50" style="margin-right:30px;" />
+  </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
 
+  <a href="https://github.com/la-b-ib/LitGrid">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/project/litgrid.PNG" height="50" style="margin-right:30px;" />
+  </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
 
+  <a href="https://github.com/la-b-ib/LeafByte">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/project/leafbyte.PNG" height="50" style="margin-right:30px;" />
+  </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
+  <a href="https://github.com/la-b-ib/CostNest">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/project/costnest.jpg" height="50" style="margin-right:30px;" />
+  </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
+  <a href="https://la-b-ib.github.io/">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/project/website.jpg" height="50" style="margin-right:30px;" />
+  </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
+  <a href="https://github.com/la-b-ib/MoodScope">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/project/moodscope.PNG" height="50" style="margin-right:30px;" />
+  </a>
+  
+</p>
 <hr>
 
 ## **⛓️‍💥 Let’s Get Connected**  
