@@ -1,12 +1,12 @@
 
-## Hi, I'm Labib : <a href="https://la-b-ib.github.io/"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile/profile.jpg"></a>
+## Hi, I'm Labib  <a href="https://la-b-ib.github.io/"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile/profile.jpg"></a>
 
 **Passionate developer with a strong interest in web & software development. I thrive on applying core concepts to real-world projects, building intelligent solutions that tackle industry challenges.With hands-on experience across diverse tech stacks, I enjoy turning complex problems into elegant code. I'm constantly exploring new tools, frameworks, and ideas to stay ahead in a fast-evolving field.**
 
 <hr>
 
 
-## Let’s Get Connected: <a href="https://la-b-ib.github.io/"><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/content-media.gif"></a>
+## Let’s Get Connected <a href="https://la-b-ib.github.io/"><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/content-media.gif"></a>
 
 
 **CS & Engineering Student @ BRACU | ML, NLP, Blockchain Researcher | IEEE CSBDC Secretariat President 2025 | Open Source Contributor | Seeking Global AI & Sustainability Collaborations**
