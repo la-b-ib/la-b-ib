@@ -52,31 +52,10 @@
   
   
 </p>
-
-
-
-
-
-
-
-
 <hr>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile/profile.jpg" alt="Profile" height="300px">
-</p>
-
-<p align="left">
-  <strong>Passionate developer</strong> with a strong interest in web & software development. I thrive on applying core concepts to real-world projects, building intelligent solutions that tackle industry challenges. With hands-on experience across diverse tech stacks, I enjoy turning complex problems into elegant code. I'm constantly exploring new tools, frameworks, and ideas to stay ahead in a fast-evolving field.
-</p>
 
 
-
-
-
-
----
-##
 
 [![OctoProfile](https://img.shields.io/badge/OctoProfile-Visit-2088FF?style=for-the-badge&logo=github)](https://octoprofile.vercel.app/user?id=la-b-ib)
 [![Profile Views](https://komarev.com/ghpvc/?username=la-b-ib&label=Views&style=for-the-badge&color=2088FF)](https://github.com/la-b-ib)
