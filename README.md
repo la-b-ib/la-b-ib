@@ -435,6 +435,13 @@
   <a href="https://x.com/la_b_ib_">
     <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib.github.io/main/assets/img/social%20links%20icon/twitter.png" height="50" style="margin-right:30px;" />
   </a>
+  <a href="#">
+  <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/separator.jpg" width="20" height="50" style="margin-bottom:10px; margin-right:30px;" />
+  </a>
+
+  <a href="https://la-b-ib.github.io/">
+    <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/certification/programmer.png" height="60" style="margin-right:30px;" />
+  </a>
   
 
 
