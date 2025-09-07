@@ -6,7 +6,7 @@
 <hr>
 
 
-## Let’s Get Connected <a href="https://la-b-ib.github.io/"><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/content-media.gif"></a>
+## Let’s Get Connected <a href=""><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/content-media.gif"></a>
 
 
 **CS & Engineering Student @ BRACU | ML, NLP, Blockchain Researcher | IEEE CSBDC Secretariat President 2025 | Open Source Contributor | Seeking Global AI & Sustainability Collaborations**
@@ -70,11 +70,15 @@ ___
 <img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&column=5&row=2&margin-w=auto&margin-h=0&theme=flat&no-bg=true&no-frame=true&exclude=NewAccountTrophy" style="height:auto; width:auto;" />
 
 ---
+##  Tech Stack <a href=""><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/computer.gif"></a>
 
-## **👨🏻‍💻 Tech Stack**
+**🚀 Igniting my GitHub journey! I'm stoked to share my coding adventures. From sleek frontends to hardcore backend systems, I’m all about pushing limits. Jump into my repos, feel the spark, and let’s team up to create something unstoppable! Ready to code the next big thing? Let’s do this! 💥 #CodeTheFuture**
+
+<hr>
 <div>
   
 ### 🧠 Programming Languages
+
 
 <p align="justify">
   <span style="padding-right:20px;">
@@ -106,7 +110,7 @@ ___
 
 </div>
 <div>
-  
+
 ### 🌐 Web Development
 
 <p align="justify">
