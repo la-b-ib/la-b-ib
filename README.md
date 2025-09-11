@@ -438,7 +438,7 @@ ___
 <hr>
 <p align="justify">
 
-  <a href="https://github.com/la-b-ib/la-b-ib/tree/main/assets/img/project">
+  <a href="https://github.com/la-b-ib/DuskProbe">
     <img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/project/duskprobe.PNG" height="50" style="margin-right:30px;" />
   </a>
   <a href="#">
