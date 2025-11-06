@@ -97,7 +97,7 @@ HTML                     1 repo              ███░░░░░░░░�
   </a>
 </div>
 
-<hr>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/la-b-ib/la-b-ib/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/la-b-ib/la-b-ib/output/pacman-contribution-graph.svg">
