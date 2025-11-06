@@ -17,7 +17,7 @@
 <a href= "https://la-b-ib.me/"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
 
-
+<hr>
 
 [![OctoProfile](https://img.shields.io/badge/OctoProfile-Visit-2088FF?style=for-the-badge&logo=github)](https://octoprofile.vercel.app/user?id=la-b-ib)
 [![Profile Views](https://komarev.com/ghpvc/?username=la-b-ib&label=Views&style=for-the-badge&color=2088FF)](https://github.com/la-b-ib)
@@ -53,12 +53,6 @@ if __name__ == '__main__':
 
 ```
 
-## Trophies <a href=""><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/winner.gif"></a>
-**🏆 Check out my GitHub Trophies! I'm thrilled to showcase my coding journey, from late-night commits to game-changing projects. Explore my repos, get inspired, and let's collaborate on something epic! Together, we can push the boundaries of what's possible with code! 🚀 #CodeWithPassion**
-
-___
-
-<img src="https://github-profile-trophy.vercel.app/?username=lucthienphong1120&column=5&row=2&margin-w=auto&margin-h=0&theme=flat&no-bg=true&no-frame=true&exclude=NewAccountTrophy" style="height:auto; width:auto;" />
 
 ---
 ##  Tech Stack <a href=""><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/computer.gif"></a>
