@@ -11,7 +11,11 @@
 
 
 
-
+<p align="center">
+<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+</p>
 
 
 
@@ -19,6 +23,35 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=la-b-ib&label=Views&style=for-the-badge&color=2088FF)](https://github.com/la-b-ib)
 
 ---
+
+```python
+
+class Labib:
+    def __init__(self):
+        self.username = 'la-b-ib'
+        self.name = 'Labib Bin Shahed'
+        self.position = 'Web & Software Developer'
+        self.website = 'https://la-b-ib.me'
+        self.skills = {
+            'backend': ['Python', 'Odoo', 'Flask', 'Django', 'FastAPI', 'Node.js', 'PHP'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'MongoDB', 'Redis'],
+            'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Proxmox'],
+            'frontend': ['HTML', 'CSS', 'JS', 'React', 'Svelte', 'Bootstrap'],
+            'tools': ['Git', 'GitHub', 'GitLab', 'Pandas', 'Jupyter', 'SQLAlchemy', 'Celery', 'Nginx'],
+            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'gRPC', 'ML', 'Tech Writing']
+        }
+        self.architectures = ['SPA', 'MVC', 'Serverless', 'Microservices']
+
+    def __str__(self):
+        return f'{self.name} | {self.position}'
+
+
+if __name__ == '__main__':
+    print(Labib())
+
+
+
+```
 
 ## Trophies <a href=""><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/winner.gif"></a>
 **🏆 Check out my GitHub Trophies! I'm thrilled to showcase my coding journey, from late-night commits to game-changing projects. Explore my repos, get inspired, and let's collaborate on something epic! Together, we can push the boundaries of what's possible with code! 🚀 #CodeWithPassion**
