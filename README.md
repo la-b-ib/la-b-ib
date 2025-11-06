@@ -27,7 +27,7 @@
 
 ---
 
-## <samp> Github Stats  <a href="https://la-b-ib.github.io/"><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile.JPG"></a> </samp>
+## <samp> Github Stats  <a href=""><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/bar-chart.gif"></a> </samp>
 <samp>
   
 <!--START_SECTION:waka-->
