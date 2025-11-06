@@ -1,5 +1,5 @@
 
-## <samp> Hi, I'm Labib  <a href="https://la-b-ib.github.io/"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile.jpg"></a> </samp>
+## <samp> Hi, I'm Labib  <a href="https://la-b-ib.github.io/"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile.JPG"></a> </samp>
 
 <details>
 <summary>About me :</summary>
