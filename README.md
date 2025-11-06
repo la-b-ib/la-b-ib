@@ -20,7 +20,7 @@
 <a href= "https://la-b-ib.me/"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
 
-<hr>
+
 
 
 
