@@ -25,7 +25,7 @@
 
 
 
-## <samp> Github Stats  <a href=""><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/bar-chart.gif"></a> </samp>
+## <samp> Github Stats  <a href=""><img align="right" width="140" height="140" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/bar-chart.gif"></a> </samp>
 <samp>
 
 <details>
