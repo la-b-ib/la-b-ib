@@ -273,3 +273,19 @@ HTML                     1 repo              ███░░░░░░░░�
 
 
 
+
+## 🎮 Contribution Graph Game <a href=""><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/pacman.gif"></a>
+
+**Watch Pac-Man devour my GitHub contributions! This interactive visualization transforms my coding activity into a playable game. Each dot represents commits, and the intensity shows my dedication. Game on! 🕹️ #CodeInMotion**
+
+<hr>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/la-b-ib/la-b-ib/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/la-b-ib/la-b-ib/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/output/pacman-contribution-graph.svg">
+</picture>
+
+<p align="center">
+  <em>Generated with <a href="https://github.com/abozanona/pacman-contribution-graph">Pacman Contribution Graph</a></em>
+</p>
