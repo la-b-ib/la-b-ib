@@ -23,7 +23,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=la-b-ib&label=Views&style=for-the-badge&color=2088FF)](https://github.com/la-b-ib)
 
 ---
-
+<samp>
+  
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -79,6 +80,7 @@ HTML                     1 repo              ███░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+</samp>
 <hr>
 
 ```python
