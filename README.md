@@ -1,11 +1,15 @@
 
 ## <samp> Hi, I'm Labib  <a href="https://la-b-ib.github.io/"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile.jpg"></a> </samp>
 
-
+<details>
+<summary>
+  𝙰𝚋𝚘𝚞𝚝 𝚖𝚎 :
+</summary>
+  
 <samp>**CSE Student @ BRACU | ML, NLP, Blockchain Researcher | IEEE CSBDC Secretariat President 2025 | Open Source Contributor | Driven developer passionate about web and software innovation. I turn complex challenges into smart, elegant solutions using diverse tech stacks, always exploring new tools to stay ahead‎.** </samp>
 
+</details>
 
-<hr>
 
 
 
