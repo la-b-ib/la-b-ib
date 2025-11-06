@@ -1,0 +1,8 @@
+name: "la-b-ib action"
+description: "Placeholder action to satisfy GitHub Actions resolution. Replace with the real implementation as needed."
+runs:
+  using: "composite"
+  steps:
+    - name: Print placeholder message
+      run: 'echo "la-b-ib action placeholder: add your real action implementation here"'
+      shell: bash
