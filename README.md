@@ -25,12 +25,13 @@
 
 
 
-## <samp> Github Stats  <a href=""><img align="right" width="140" height="140" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/bar-chart.gif"></a> </samp>
+## <samp> Github Stats  <a href=""><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/bar-chart.gif"></a> </samp>
 <samp>
 
 <details>
 <summary> Statistics :</summary> 
-  
+
+  **Dive into my GitHub stats to explore my coding streaks, top languages, and contributions across projects. Whether it's machine learning, cybersecurity, or pixel-perfect frontend magic — it's all in the commits.**
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -87,15 +88,17 @@ HTML                     1 repo              ███░░░░░░░░�
 </samp>
 </details>
 
-<div align="center">
+<div align="left">
   <a href="https://octoprofile.vercel.app/user?id=la-b-ib">
-    <img src="https://img.shields.io/badge/OctoProfile-Visit-black?logo=github&logoColor=black&labelColor=white" alt="OctoProfile Badge"/>
+    <img src="https://img.shields.io/badge/OctoProfile-Visit-black?logo=github&logoColor=black&labelColor=white" alt="OctoProfile Badge" style="height:20px;"/>
   </a>
   <a href="https://github.com/la-b-ib">
-  <img src="https://komarev.com/ghpvc/?username=la-b-ib&label=Views&color=2088FF" alt="Profile Views"/>
-</a>
+    <img src="https://komarev.com/ghpvc/?username=la-b-ib&label=Views&color=2088FF" alt="Profile Views" style="height:20px;"/>
+  </a>
 </div>
-<hr>
+
+
+
 
 
 ## Certifications <a href=""><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/certificate-authority.gif"></a>
