@@ -1,16 +1,16 @@
 
 ## <samp> Hi, I'm Labib  <a href="https://la-b-ib.github.io/"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile.JPG"></a> </samp>
 
-<samp>
+
   
 <details>
-<summary>About me :</summary>
+<summary>About me :</summary> 
   
-**CSE @ BRACU | ML, NLP, Blockchain Researcher | IEEE CSBDC '25 President | Open Source Contributor | Web & Software Developer solving real-world challenges with modern tech stacks and continuous innovation**
+<samp>**CSE @ BRACU | ML, NLP, Blockchain Researcher | IEEE CSBDC '25 President | Open Source Contributor | Web & Software Developer solving real-world challenges with modern tech stacks and continuous innovation**</samp>
 
 </details>
 
-<samp>
+
 
 
 
@@ -26,6 +26,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=la-b-ib&label=Views&style=for-the-badge&color=2088FF)](https://github.com/la-b-ib)
 
 ---
+
+## <samp> Github Stats  <a href="https://la-b-ib.github.io/"><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile.JPG"></a> </samp>
 <samp>
   
 <!--START_SECTION:waka-->
