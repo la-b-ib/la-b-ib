@@ -22,16 +22,14 @@
 
 <hr>
 
-[![OctoProfile](https://img.shields.io/badge/OctoProfile-Visit-2088FF?style=for-the-badge&logo=github)](https://octoprofile.vercel.app/user?id=la-b-ib)
-[![Profile Views](https://komarev.com/ghpvc/?username=la-b-ib&label=Views&style=for-the-badge&color=2088FF)](https://github.com/la-b-ib)
 
----
+
 
 ## <samp> Github Stats  <a href=""><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/bar-chart.gif"></a> </samp>
 <samp>
 
 <details>
-<summary> Statistics : :</summary> 
+<summary> Statistics :</summary> 
   
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -89,11 +87,16 @@ HTML                     1 repo              ███░░░░░░░░�
 </samp>
 </details>
 
-
+<div align="center">
+  <a href="https://octoprofile.vercel.app/user?id=la-b-ib">
+    <img src="https://img.shields.io/badge/OctoProfile-Visit-black?logo=github&logoColor=black&labelColor=white" alt="OctoProfile Badge"/>
+  </a>
+  <a href="https://github.com/la-b-ib">
+  <img src="https://komarev.com/ghpvc/?username=la-b-ib&label=Views&color=2088FF" alt="Profile Views"/>
+</a>
+</div>
 <hr>
 
-
----
 
 ## Certifications <a href=""><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/certificate-authority.gif"></a>
 **🎓 Showcasing my certifications on GitHub! I'm proud to display my credentials from Google, HackerRank, IBM, LinkedIn, Microsoft, and more, earned through dedication and a passion for learning. Let’s connect and explore how these skills can fuel innovative projects! 🌟 #CertifiedAndDriven**
