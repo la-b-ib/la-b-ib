@@ -1,13 +1,16 @@
 
 ## <samp> Hi, I'm Labib  <a href="https://la-b-ib.github.io/"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile.JPG"></a> </samp>
 
+<samp>
+  
 <details>
 <summary>About me :</summary>
   
-<samp>**CSE @ BRACU | ML, NLP, Blockchain Researcher | IEEE CSBDC '25 President | Open Source Contributor | Web & Software Developer solving real-world challenges with modern tech stacks and continuous innovation** </samp>
+**CSE @ BRACU | ML, NLP, Blockchain Researcher | IEEE CSBDC '25 President | Open Source Contributor | Web & Software Developer solving real-world challenges with modern tech stacks and continuous innovation**
 
 </details>
 
+<samp>
 
 
 
