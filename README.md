@@ -35,45 +35,6 @@
 
   **Dive into my GitHub stats to explore my coding streaks, top languages, and contributions across projects. Whether it's machine learning, cybersecurity, or pixel-perfect frontend magic — it's all in the commits.**
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-🌆 Daytime                539 commits         █████████░░░░░░░░░░░░░░░░   37.90 % 
-🌃 Evening                542 commits         ██████████░░░░░░░░░░░░░░░   38.12 % 
-🌙 Night                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   128 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Tuesday                  120 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Wednesday                105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Thursday                 262 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
-Friday                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Saturday                 352 commits         ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-Sunday                   265 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
