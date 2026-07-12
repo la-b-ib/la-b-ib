@@ -14,7 +14,7 @@
 
 <p align="center">
 
-[![Reddit](https://img.shields.io/badge/Reddit-_-green?style=social&logo=reddit)](https://www.reddit.com/u/la-b-ib/s/7K3MlfiEZ9) [![Email](https://img.shields.io/badge/Email-labib.b.shahed-gray?style=social&logo=gmail)](mailto:labib.b.shahed@gmail.com?subject=Professional%20Inquiry)
+[![Reddit](https://img.shields.io/badge/Reddit-_-green?style=social&logo=reddit)](https://www.reddit.com/u/la-b-ib/s/7K3MlfiEZ9) [![Email](https://img.shields.io/badge/Email--gray?style=social&logo=gmail)](mailto:labib.b.shahed@gmail.com?subject=Professional%20Inquiry)
 
 
 </p>
