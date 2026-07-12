@@ -1,23 +1,22 @@
 
-## <samp> Hi, I'm Labib  <a href="https://la-b-ib.github.io/"><img align="left" width="180" height="180" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile.JPG"></a> </samp>
+## <samp> Hi, I'm Labib
+ <a href="https://la-b-ib.github.io/"><img align="left" width="120" height="120" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile.JPG"></a> </samp>
 
 
   
-<details>
-<summary>About me :</summary> 
+ 
   
 <samp>**CSE @ BRACU | ML, NLP, Blockchain Researcher | IEEE CSBDC '25 President | Open Source Contributor | Web & Software Developer solving real-world challenges with modern tech stacks and continuous innovation**</samp>
-
-</details>
 
 
 
 
 
 <p align="center">
-<a href= "https://dev.to/la-b-ib"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://x.com/la_b_ib_"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://la-b-ib.me/"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+
+[![Reddit](https://img.shields.io/badge/Reddit-_-green?style=social&logo=reddit)](https://www.reddit.com/u/la-b-ib/s/7K3MlfiEZ9) [![Email](https://img.shields.io/badge/Email-labib.b.shahed-gray?style=social&logo=gmail)](mailto:labib.b.shahed@gmail.com?subject=Professional%20Inquiry)
+
+
 </p>
 
 
