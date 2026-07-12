@@ -6,7 +6,7 @@
   
  
   
-<samp>**CSE @ BRACU | ML, NLP, Blockchain Researcher | IEEE CSBDC '25 President | Open Source Contributor | Web & Software Developer solving real-world challenges with modern tech stacks and continuous innovation**</samp>
+<samp>**CSE @ BRACU '22 | Research: Crypto Security & DFIR | Former IEEE CSBDC Secr'25 Pres | SecDev: OSINT, Threat Intel & Defensive SecOps Toolkits**</samp>
 
 
 
