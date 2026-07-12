@@ -22,16 +22,16 @@
 
 
 
-<details>
-<summary>Bits of me :</summary> 
+
   
 ## <samp> Github Stats  <a href=""><img align="right" width="100" height="100" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/bar-chart.gif"></a> </samp>
-<samp>
+
 
 <details>
-<summary> Statistics :</summary> 
+<summary>Details</summary> 
 
-  **Dive into my GitHub stats to explore my coding streaks, top languages, and contributions across projects. Whether it's machine learning, cybersecurity, or pixel-perfect frontend magic — it's all in the commits.**
+<samp>
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -54,24 +54,6 @@ Sunday                   265 commits         █████░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dhaka
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -91,19 +73,21 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
-</details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/la-b-ib/la-b-ib/output/pacman-contribution-graph-dark.svg" style="height:220px; ">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/la-b-ib/la-b-ib/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/output/pacman-contribution-graph.svg">
-</picture>
+
+<img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="pacman contribution graph" width="100%">
+<img src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="pacman contribution graph" width="100%">
+
+
+
+
+
+
 
 <samp>
 
 
-**Watch Pac-Man devour my GitHub contributions! This interactive visualization transforms my coding activity into a playable game. Each dot represents commits, and the intensity shows my dedication. Game on! 🕹️ #CodeInMotion**
-</samp>
+
 
 <hr>
 
