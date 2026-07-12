@@ -1,6 +1,6 @@
 
 ## <samp> Hi, I'm Labib
- <a href="https://la-b-ib.github.io/"><img align="left" width="120" height="120" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile.JPG"></a> </samp>
+ <a href="https://la-b-ib.github.io/"><img align="left" width="125" height="125" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile.JPG"></a> </samp>
 
 
   
@@ -14,8 +14,7 @@
 
 <p align="center">
 
-[![Reddit](https://img.shields.io/badge/Reddit-_-green?style=social&logo=reddit)](https://www.reddit.com/u/la-b-ib/s/7K3MlfiEZ9) [![Mail](https://img.shields.io/badge/Email--gray?style=social&logo=gmail)](mailto:labib.b.shahed@gmail.com?subject=Professional%20Inquiry) [![](https://img.shields.io/badge/_--0075ca?style=social&logo=X)](https://x.com/la_b_ib_?s=11) [![Website](https://img.shields.io/badge/Website-Portfolio-0075ca?style=social&logo=Duckduckgo)](https://la-b-ib.pages.dev/) [![Streamlit](https://img.shields.io/badge/Streamlit-_-0075ca?style=social&logo=Streamlit)](https://share.streamlit.io/user/la-b-ib) [![ORCiD](https://img.shields.io/badge/ORCiD-0009--0007--4656--8709-green?style=social&logo=Orcid)](https://orcid.org/0009-0007-4656-8709)
-
+[![Reddit](https://img.shields.io/badge/Reddit-_-green?style=social&logo=reddit)](https://www.reddit.com/u/la-b-ib/s/7K3MlfiEZ9) [![Mail](https://img.shields.io/badge/Email--gray?style=social&logo=gmail)](mailto:labib.b.shahed@gmail.com?subject=Professional%20Inquiry) [![](https://img.shields.io/badge/_--0075ca?style=social&logo=X)](https://x.com/la_b_ib_?s=11) [![Website](https://img.shields.io/badge/Website-Portfolio-0075ca?style=social&logo=Duckduckgo)](https://la-b-ib.pages.dev/) [![Streamlit](https://img.shields.io/badge/Streamlit-_-0075ca?style=social&logo=Streamlit)](https://share.streamlit.io/user/la-b-ib) [![ORCiD](https://img.shields.io/badge/ORCiD-0009--0007--4656--8709-green?style=social&logo=Orcid)](https://orcid.org/0009-0007-4656-8709) [![LinkedIn](https://img.shields.io/badge/LinkedIn-_-green?style=social&logo=Xing)](https://www.linkedin.com/in/la-b-ib?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 </p>
 
