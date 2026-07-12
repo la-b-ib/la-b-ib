@@ -36,23 +36,41 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-🌆 Daytime                550 commits         ██████████░░░░░░░░░░░░░░░   38.22 % 
-🌃 Evening                548 commits         ██████████░░░░░░░░░░░░░░░   38.08 % 
-🌙 Night                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+🌞 Morning                165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+🌆 Daytime                560 commits         ██████████░░░░░░░░░░░░░░░   38.57 % 
+🌃 Evening                551 commits         █████████░░░░░░░░░░░░░░░░   37.95 % 
+🌙 Night                  176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Tuesday                  126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Wednesday                105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Thursday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-Friday                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Saturday                 352 commits         ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-Sunday                   265 commits         █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Monday                   135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Tuesday                  126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Wednesday                105 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Thursday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Friday                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Saturday                 352 commits         ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
+Sunday                   278 commits         █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dhaka
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Python** 
 
