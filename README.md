@@ -25,7 +25,7 @@
 <details>
 <summary>Bits of me :</summary> 
   
-## <samp> Github Stats  <a href=""><img align="right" width="150" height="150" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/bar-chart.gif"></a> </samp>
+## <samp> Github Stats  <a href=""><img align="right" width="100" height="100" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/gif/section%20title/bar-chart.gif"></a> </samp>
 <samp>
 
 <details>
@@ -89,19 +89,12 @@ HTML                     1 repo              ██░░░░░░░░░�
 </samp>
 </details>
 
-<div align="left">
-  <a href="https://octoprofile.vercel.app/user?id=la-b-ib">
-    <img src="https://img.shields.io/badge/OctoProfile-Visit-black?logo=github&logoColor=black&labelColor=white" alt="OctoProfile Badge" style="height:20px;"/>
-  </a>
-  <a href="https://github.com/la-b-ib">
-    <img src="https://komarev.com/ghpvc/?username=la-b-ib&label=Views&color=2088FF" alt="Profile Views" style="height:20px;"/>
-  </a>
-</div>
+
 
 </details>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/la-b-ib/la-b-ib/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/la-b-ib/la-b-ib/output/pacman-contribution-graph-dark.svg" style="height:220px; ">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/la-b-ib/la-b-ib/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/output/pacman-contribution-graph.svg">
 </picture>
