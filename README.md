@@ -1,6 +1,6 @@
 
 ## <samp> Hi, I'm Labib
- <a href="https://la-b-ib.github.io/"><img align="left" width="135" height="135" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile.JPG"></a> </samp>
+ <a href="https://la-b-ib.github.io/"><img align="left" width="127" height="127" src="https://raw.githubusercontent.com/la-b-ib/la-b-ib/main/assets/img/profile.JPG"></a> </samp>
 
 
   
