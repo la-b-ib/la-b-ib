@@ -39,23 +39,9 @@
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
 💻 Operating System: 
 No Activity Tracked This Week
 ```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   6 repos             ██████████████░░░░░░░░░░░   54.55 % 
-JavaScript               3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-```
-
-
 
 
 <!--END_SECTION:waka-->
