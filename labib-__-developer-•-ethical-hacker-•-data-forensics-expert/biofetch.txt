@@ -1,0 +1,13 @@
+      case 'biofetch':
+        newHistory.push({
+          id: crypto.randomUUID(),
+          type: 'ascii',
+          text: `█▄▄ █ █▀█ █▀▀ █▀▀ ▀█▀ █▀▀ █░█ ░
+█▄█ █ █▄█ █▀░ ██▄ ░█░ █▄▄ █▀█ ▄`,
+        });
+        newHistory.push({
+          id: crypto.randomUUID(),
+          type: 'teal',
+          text: `===================================================================\n[01] PERSONNEL DOSSIER\n===================================================================\n[01] Name         : Labib B. Shahed\n[02] Role         : Principal Security Architect & Lead Engineer\n[03] Speciality   : Zero-Trust Platforms, Memory Forensics, EDR Evasion\n[04] Clearance    : Top Secret / SCI (Simulated)\n===================================================================\n\n[02] TECHNICAL ARSENAL & PROFICIENCY MATRIX\n===================================================================\n[01] Offensive Sec: [98%] (Metasploit, Burp Suite Pro, Ghidra)\n[02] Forensics    : [97%] (Volatility 3, Autopsy, FTK, Wireshark)\n[03] Cloud Sec    : [96%] (Kubernetes, RedHat OpenShift, AWS Sec)\n[04] Systems Eng  : [98%] (TypeScript, React, Node.js, Go, Rust)\n[05] Cryptography : [96%] (Post-Quantum Crypto, WebAuthn/Passkeys)\n[06] Net Defense  : [97%] (Fortinet FortiGate, eBPF Packet Filtering)\n===================================================================\n\n[03] ACTIVE CASEFILES & PROJECTS\n===================================================================\n[01] CASE-091     : Spectre-X (Volatility 3 RAM Forensics & Rootkit Detector)\n[02] CASE-084     : AegisGuard (WebAuthn & Passkey Zero-Trust Identity Engine)\n[03] CASE-078     : Vortex-Fuzz (100k req/sec HTTP/2 Async Rust Fuzzer)\n[04] CASE-065     : CipherTrace (Ransomware eBPF Detonation & Telemetry)\n===================================================================\n\n[04] PROFESSIONAL CERTIFICATIONS & CREDENTIALS\n===================================================================\n${CERTIFICATIONS_DATA.map((c, i) => `[${(i + 1).toString().padStart(2, '0')}] ${c.title.padEnd(42)}: ${c.issuer} (${c.status || 'VERIFIED'})`).join('\n')}\n===================================================================\n\n[05] VERIFIED DIGITAL BADGES\n===================================================================\n${BADGES_DATA.map((b, i) => `[${(i + 1).toString().padStart(2, '0')}] ${b.title.padEnd(42)}: ${b.issuer} (ID: ${b.credentialId})`).join('\n')}\n===================================================================`
+        });
+        break;
