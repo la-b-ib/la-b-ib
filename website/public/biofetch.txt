@@ -1,0 +1,19 @@
+===================================================================
+PERSONNEL DOSSIER: LABIB B. SHAHED
+===================================================================
+CLEARANCE: MAXIMUM
+ROLE: SECURITY RESEARCHER & FULL-STACK ENGINEER
+
+// SKILLS & EXPERTISE
+- Threat Intelligence & DFIR
+- Web Application Security
+- Network Infrastructure & eBPF
+- Advanced React & TypeScript
+- Cloud & Infrastructure Security
+
+// CONTACT SECURE CHANNELS
+- Email: labib.b.shahed@gmail.com
+- GitHub: https://github.com/la-b-ib
+- LinkedIn: https://linkedin.com/in/la-b-ib
+
+[EOF]
