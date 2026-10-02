@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <!-- Top facet: subtle top ambient illumination -->
+  <polygon points="0,0 20,0 10,10" fill="#1e1f24"/>
+  <!-- Left facet: key light highlight -->
+  <polygon points="0,0 10,10 0,20" fill="#282a30"/>
+  <!-- Right facet: penumbra shadow -->
+  <polygon points="20,0 20,20 10,10" fill="#141518"/>
+  <!-- Bottom facet: core shadow -->
+  <polygon points="0,20 20,20 10,10" fill="#0a0a0c"/>
+  <!-- Subtle facet dividing edges -->
+  <line x1="0" y1="0" x2="20" y2="20" stroke="#000000" stroke-width="0.5" stroke-opacity="0.6"/>
+  <line x1="20" y1="0" x2="0" y2="20" stroke="#000000" stroke-width="0.5" stroke-opacity="0.6"/>
+</svg>
